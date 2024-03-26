@@ -11,7 +11,7 @@ This is an end-to-end formula1-analysis, right from hitting the `Ergast API` eve
 --> Data Governance - Unity Catalog - Databricks
 --> Data Lineage - Unity Catalog - Databricks
 --> Access management - Azure Managed Identity and Service Principal
---> Cross platform connections/roles/connectors/Token management - Azure Secure Key Vault.
+--> Cross platform connections/roles/connectors/Token management - Azure Secure Key Vault
 --> Dashboards - PowerBI (will be released to GitHub soon)
 ```
 #### Workflow:
