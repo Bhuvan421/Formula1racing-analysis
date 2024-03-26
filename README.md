@@ -1,6 +1,6 @@
 # formula1racing-analysis-spark-azure-databricks
 
-This is an end-to-end formula1-analysis, right from hitting the `Ergast API` every week on Sunday night 10pm to get the raw data and store it in the `Bronze layer` (raw), then transform `silver layer`, analyse and make it visual ready `gold layer` to get some valuable insights. The data consists of multiple files in multiple formats (csv, json, parquet). 
+This is an end-to-end formula1-analysis, right from hitting the `Ergast API` every week on Sunday night 10pm to get the raw data and store it in the `Bronze layer` (raw), then transform (`silver layer`), analyze and make it visual ready (`gold layer`) to get some valuable insights. The data consists of multiple files in multiple formats (csv, json, parquet). 
 
 #### Tech stack used:
 
