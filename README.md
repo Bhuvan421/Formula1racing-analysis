@@ -4,7 +4,7 @@ This is an end-to-end formula1-analysis, right from hitting the `Ergast API` eve
 
 #### Tech stack used:
 
---> Storage - Azure Data Lake Gen 2
+--> Storage - Azure Data Lake Gen 2 \n
 --> Compute - Azure Databricks - Apache Spark (Pyspark and spark SQL used interchangebly as per ease of use)
 --> Workflow and automation - Azure Data Factory
 --> Data Governance - Unity Catalog - Databricks
