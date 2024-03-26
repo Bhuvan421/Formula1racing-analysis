@@ -26,4 +26,4 @@ This is an end-to-end formula1-analysis, right from hitting the `Ergast API` eve
 
 Here is the sample workflow
 
-sample-pipeline-flow.png
+![Alt text](sample-pipeline-flow.png)
