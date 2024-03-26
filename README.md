@@ -23,3 +23,7 @@ This is an end-to-end formula1-analysis, right from hitting the `Ergast API` eve
 * Use ADF triggers to automate the workflow as per need and monitor the results from each run in ADF.
 * Finally, connect the results tables to any data vizualizationn connector and build interactive dashboards.
 
+
+Here is the sample workflow
+
+sample-pipeline-flow.png
