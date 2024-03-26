@@ -4,7 +4,8 @@ This is an end-to-end formula1-analysis, right from hitting the `Ergast API` eve
 
 #### Tech stack used:
 
---> Storage - Azure Data Lake Gen 2 \n
+```
+--> Storage - Azure Data Lake Gen 2
 --> Compute - Azure Databricks - Apache Spark (Pyspark and spark SQL used interchangebly as per ease of use)
 --> Workflow and automation - Azure Data Factory
 --> Data Governance - Unity Catalog - Databricks
@@ -12,7 +13,7 @@ This is an end-to-end formula1-analysis, right from hitting the `Ergast API` eve
 --> Access management - Azure Managed Identity and Service Principal
 --> Cross platform connections/roles/connectors/Token management - Azure Secure Key Vault.
 --> Dashboards - PowerBI (will be released to GitHub soon)
-
+```
 #### Workflow:
 
 * Get the raw data from 'Ergast API' by calling the api every sunday night at 10pm using azure data factory trigger and store it in the raw layer.
